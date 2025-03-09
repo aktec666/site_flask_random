@@ -17,3 +17,12 @@ p{
     padding: 20px;
 }
 
+a{
+    text-decoration: none;
+    color: #333;
+    background-color: azure;
+    padding: 20px;
+    border: solid;
+    border-radius: 10px;
+}
+
